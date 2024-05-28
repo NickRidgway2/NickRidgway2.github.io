@@ -7,7 +7,7 @@ tags: [Post 3]
 
 # Design Three
 
-![Design One](/assets/lib/design10.png)
+![design one](https://github.com/NickRidgway2/NickRidgway2.github.io/assets/147518493/aab736a7-71df-49f2-b34d-06b70a00121c)
 
 This design focuses on a creating a star. There is a constant movement, of the outside collapsing in on the core, then releasing back out. There are 3 inner, and 5 outer stars. These ‘stars’ are ellipses at the end of each colour ray. I like this design because it is both fun and unique. As it is constantly moving in a random state, it is never the same each time you look at it. Although the colours are nice, I want to change them in the next design to see the difference.
 
@@ -79,10 +79,11 @@ Looking at the code, the four variables are initialised. In the function setup, 
 
 The star class is used to initialise a star with an initial radius. In addition, update is used to update the angle of the star and recalculate the position of the star.
 
-![Design Two](/assets/lib/design11.png)
+![design two](https://github.com/NickRidgway2/NickRidgway2.github.io/assets/147518493/8abe7a2d-bcef-4bf3-af5f-c46caceb9c4c)
 
 This design is identical to the first, however I have changed the colour. I was able to do this by changing the colourmode from HSB to HSB with additional values. This was a simple and easy adjustment, and I like the difference between the two designs.
 
-![Design Three](/assets/lib/design12.png)
+![design 3](https://github.com/NickRidgway2/NickRidgway2.github.io/assets/147518493/e86c725d-299e-4155-8257-7f5b07d2e43a)
+
 
 This design represents a much darker atmosphere. The star moves in a slower and less predictable pattern. As a result, this design in comparison to the first is very different and both represent different artistic styles.
