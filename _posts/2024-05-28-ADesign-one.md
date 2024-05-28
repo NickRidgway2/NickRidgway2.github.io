@@ -7,7 +7,7 @@ tags: [Post 1]
 
 # Design One
 
-![Design One](/assets/FIRSTDESIGN.png)
+![Design One](https://github.com/NickRidgway2/NickRidgway2.github.io/assets/147518493/d39deb4f-a5c4-48cf-8411-635d85269763)
 
 This design potrays a total of 150 circles, all which remain static, until one is pressed. In the scenario that one is pressed, it will move in a random direction. Moreover, if a circle is pressed, whilst another circle is overlaying it, they will all move into random directions at the same time. The colour green is shown when hovering over the circle. This is the first design, showing a basic concept, however a poor overall colour scheme.
 
@@ -75,14 +75,15 @@ Looking at the code, we can see that we declare both clickBlobs and numBlobs. We
 
 The code checks if the hover property of the blob is true, if it is true, it will set tx and ty to random values. If the blob is being hovered over, it will fill colour to green (0,200,100). The click function allows the blob to move to a random position. 
 
-![Design Two](/assets/design2.png)
+![design2](https://github.com/NickRidgway2/NickRidgway2.github.io/assets/147518493/6f3e7194-2e3e-4665-84df-31c1054fae4a)
+
 
 In the second design, I decided to change the colour of the circle and background, as well as the numBlobs to 10. This changes the number of Blobs to 10, which is drastically less then the 150 in my previous design. In addition, I have changed this.x and this.y to be divided by 10 and 100 rather than 20. When clicked, the circle will continue to fall for an additional few seconds, in comparison to the previous values.
 
-![Design Three](/assets/design3.png)
+![design3](https://github.com/NickRidgway2/NickRidgway2.github.io/assets/147518493/0bafb202-3ef4-4e31-8d21-a9f2c3d87cb3)
 
 I have changed the ellipses to squares, changing the size of them to 15 rather than 50. However, I kept the numBlobs to 150. Other than that, the design remains the same. However, it looks drastically different. This is primary because of the combination of the size, and shape.
 
-![Design Four](/assets/design4.png)
+![design4](https://github.com/NickRidgway2/NickRidgway2.github.io/assets/147518493/98c47cb4-584c-44b6-960a-56abc5f0d64c)
 
 I decided to make a design similar, however change the number of numBlobs to 2 rather than 150. In addition, I changed the colour to black, rather than grey, or previous colours I have used in my designs. I like this design as it looks somewhat basic prior to being clicked, but once hovered over, it will turn green and once again move to a random location on the canvas. I believe this is my favourite design of all four.
